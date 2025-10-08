@@ -1,4 +1,4 @@
-name: Deploy Blazor App to GitHub Pages
+name: Deploy DIEGOBLAZORAPP to GitHub Pages
 
 # Definisce l'evento che attiva il workflow.
 # In questo caso, si attiva ad ogni push sul branch 'main'.
